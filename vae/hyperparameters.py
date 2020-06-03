@@ -1,0 +1,9 @@
+
+SCALE = 3
+WEIGHTS = [1, 4, 2, 1]
+WIN_SIZE = max(WEIGHTS)
+
+N_EPOCHS = 64
+
+FORCE_BLANK_SILENCE = False
+
